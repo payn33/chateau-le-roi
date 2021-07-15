@@ -64,7 +64,10 @@
     ]
   },
   "devDependencies": {
-    "postcss": "^7.0.36",
+    "fsevents": "^2.3.2",
+    "postcss": "^7.0.36"
+  },
+  "optionalDependencies": {
     "fsevents": "^2.3.2"
   }
 }
